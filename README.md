@@ -55,7 +55,7 @@ Use clingo to find all solutions to the Anti-Knight Sudoku problem presented bel
  
 ## Problem 7. 
 Use clingo to find all solutions to the Greater-Than Sudoku problem presented below.
-![image](images/7.jpg){:height="500px" width="501px"}
+![image](images/7.jpg)
  
  
  
