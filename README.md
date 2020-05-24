@@ -1,7 +1,8 @@
 # ASP Beginner Clingo Programs
 - This is a small repository which might help anyone get started with **answer set programming (ASP)** using **Clingo (v5.4.0)**.
-- This is the solution for these programs can be found in [Programming-Solutions](Programming-Solutions).
-- Details on how to run the programs and my output of the programs and my implementation can be found in **"[How to Run and Output]("How to Run and Output.pdf")"**
+- The solution for these programs can be found in **[Programming-Solutions](Programming-Solutions)**.
+- Details on the problem statements can be found in **[Clingo_Programming](Clingo_Programming.pdf)**.
+- Details on how to run the programs and my output of the programs and my implementation can be found in **"[How_to_Run_and_Output](How_to_Run_and_Output.pdf)"**
 
 ## Problem 1. 
 Use clingo to find all solutions to the 8 queens problem that have no queens in the 4x4=16
