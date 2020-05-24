@@ -44,7 +44,7 @@ Use clingo to find all solutions to the Offset Sudoku problem below.
  
 ## Problem 6. 
 Use clingo to find all solutions to the Anti-Knight Sudoku problem presented below.
-![image](images/6.jpg)
+![image](images/6.jpg=500x500)
  
  
  
@@ -55,7 +55,7 @@ Use clingo to find all solutions to the Anti-Knight Sudoku problem presented bel
  
 ## Problem 7. 
 Use clingo to find all solutions to the Greater-Than Sudoku problem presented below.
-![image](images/7.jpg) 
+![image](images/7.jpg=500x501) 
  
  
  
