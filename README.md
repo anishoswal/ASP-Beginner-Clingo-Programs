@@ -13,9 +13,11 @@ squares in the middle of the board.
 Use clingo to find all solutions to the n-queens problem for n=3,4,5,6,7,8,9,10,11,12. Draw a
 table that lists the number of solutions and the times to compute all solutions. Use CPU time
 that clingo returns. Since the output is large, do not copy them into the submission. 
-Problem 3. 
+
+
+## Problem 3. 
 Use clingo to find all solutions to the so-called world's hardest sudoku problem below. 
- 
+![image](images/3.jpg)
  
  
  
