@@ -24,7 +24,7 @@ Use clingo to find all solutions to the so-called world's hardest sudoku problem
  
 ## Problem 4. 
 Use clingo to find all solutions to the 16x16 Sudoku problem below. 
- 
+![image](images/4.jpg)
  
  
  
@@ -33,7 +33,7 @@ Use clingo to find all solutions to the 16x16 Sudoku problem below.
  
 ## Problem 5. 
 Use clingo to find all solutions to the Offset Sudoku problem below. 
- 
+![image](images/5.jpg)
  
  
  
@@ -44,9 +44,7 @@ Use clingo to find all solutions to the Offset Sudoku problem below.
  
 ## Problem 6. 
 Use clingo to find all solutions to the Anti-Knight Sudoku problem presented below.
- 
-
-
+![image](images/6.jpg)
  
  
  
@@ -57,7 +55,7 @@ Use clingo to find all solutions to the Anti-Knight Sudoku problem presented bel
  
 ## Problem 7. 
 Use clingo to find all solutions to the Greater-Than Sudoku problem presented below.
- 
+![image](images/7.jpg)
 
  
 ## Problem 8. 
