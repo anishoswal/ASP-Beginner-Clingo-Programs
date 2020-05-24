@@ -1,0 +1,11 @@
+%Each row has exactly one queen
+{queen(R,1..8)}=1:- R=1..8.
+
+%No two queens are on the same column
+:- queen(R0,C), queen(R1,C), R0!=R1.
+
+%No two queens are on the same diagonal
+:- queen(R0,C0), queen(R1,C1), R0!=R1, |R0-R1|=|C0-C1|.
+
+%No queens in the middle 4x4 squares
+:- queen(3..6,3..6).

@@ -1,0 +1,8 @@
+%Bishop on each row
+{bishop(X,1..n)}:-X=1..n.
+
+%No two bishops on the same diagonal
+:- bishop(R1,C1), bishop(R2,C2), R1!=R2, |R1-R2| = |C1-C2|.
+
+%Maximize
+#maximize{1,X,Y : bishop(X,Y)}.
